@@ -43,10 +43,10 @@ We still want to figure out the answer to the original question, do we focus our
 
 # Interpreting the coefficients:
 
-***Holding all other features fixed, a 1 unit increase in Avg. Session Length is associated with an increase of 25.98 total dollars spent.***
-***Holding all other features fixed, a 1 unit increase in Time on App is associated with an increase of 38.59 total dollars spent.***
-***Holding all other features fixed, a 1 unit increase in Time on Website is associated with an increase of 0.19 total dollars spent.***
-***Holding all other features fixed, a 1 unit increase in Length of Membership is associated with an increase of 61.27 total dollars spent.***
-**Do you think the company should focus more on their mobile app or on their website?**
-***This is tricky, there are two ways to think about this: Develop the Website to catch up to the performance of the mobile app, or develop the app more since that is what is working better. This sort of answer really depends on the other factors going on at the company, you would probably want to explore the relationship between Length of Membership and the App or the Website before coming to a conclusion!**
+- ***Holding all other features fixed, a 1 unit increase in Avg. Session Length is associated with an increase of 25.98 total -dollars spent.***
+- ***Holding all other features fixed, a 1 unit increase in Time on App is associated with an increase of 38.59 total dollars spent.***
+- ***Holding all other features fixed, a 1 unit increase in Time on Website is associated with an increase of 0.19 total dollars spent.***
+- ***Holding all other features fixed, a 1 unit increase in Length of Membership is associated with an increase of 61.27 total dollars spent.***
+- **Do you think the company should focus more on their mobile app or on their website?**
+- ***This is tricky, there are two ways to think about this: Develop the Website to catch up to the performance of the mobile app, or develop the app more since that is what is working better. This sort of answer really depends on the other factors going on at the company, you would probably want to explore the relationship between Length of Membership and the App or the Website before coming to a conclusion!**
 
