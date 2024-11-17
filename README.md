@@ -1,4 +1,4 @@
-## Prediction-of-Yearly-Amount-Spent-spent-by-Ecommerce-Customers
+## Prediction of Yearly Amount Spent spent by Ecommerce-Customers
 ![image](https://github.com/user-attachments/assets/d2ca1018-f098-40b3-af3f-593134048d6e)
 
 # Problem Statement
